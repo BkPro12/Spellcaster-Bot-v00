@@ -1,0 +1,6 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="SF^1lgH~,qt4N?D?cwot">Player</variable><variable id="I?m/]bZ[PvuFLo6%U70+">Bot</variable><variable id="@p#B.bU)`ATrf/ys2}xJ">list</variable></variables><comment id="oV[~@d2owtzY0{9F[bJ/" x="815" y="-166" h="200" w="200">List key:
+
+hp
+fire immunity
+ice immunity
+paralysed</comment><block type="variables_set" id="7D$g-%g9H8up5sgW$j/*" disabled="true" x="0" y="0"><field name="VAR" id="SF^1lgH~,qt4N?D?cwot">Player</field><value name="VALUE"><block type="lists_create_with" id=";pn;YxU4_:Yw,dBbM4u*" inline="false" disabled="true"><mutation items="4" horizontalafter="3"></mutation><value name="ADD0"><shadow type="math_number" id="o-coXy?rDkjE}?U_sWH;" disabled="true"><field name="NUM">0</field></shadow></value><value name="ADD1"><shadow type="math_number" id="sp*z7=l94?Ci7l%uz9q5" disabled="true"><field name="NUM">0</field></shadow></value><value name="ADD2"><shadow type="math_number" id="RPFY}_D(=*$8*o0G4`^L" disabled="true"><field name="NUM">0</field></shadow></value><value name="ADD3"><shadow type="math_number" id="Gg5$z:GsQi89W]|WE}t_" disabled="true"><field name="NUM">0</field></shadow></value></block></value></block></xml>
